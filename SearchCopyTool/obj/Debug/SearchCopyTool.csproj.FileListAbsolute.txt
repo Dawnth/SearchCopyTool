@@ -1,0 +1,8 @@
+C:\Users\dongchen\Documents\Visual Studio 2015\Projects\SearchCopyTool\SearchCopyTool\obj\Debug\SearchCopyTool.exe
+C:\Users\dongchen\Documents\Visual Studio 2015\Projects\SearchCopyTool\SearchCopyTool\obj\Debug\SearchCopyTool.pdb
+C:\Users\dongchen\Documents\Visual Studio 2015\Projects\SearchCopyTool\SearchCopyTool\bin\Debug\SearchCopyTool.exe
+C:\Users\dongchen\Documents\Visual Studio 2015\Projects\SearchCopyTool\SearchCopyTool\bin\Debug\SearchCopyTool.pdb
+C:\Users\dongchen\Documents\Visual Studio 2015\Projects\SearchCopyTool\SearchCopyTool\obj\Debug\SearchCopyTool.csprojResolveAssemblyReference.cache
+C:\Users\dongchen\Documents\Visual Studio 2015\Projects\SearchCopyTool\SearchCopyTool\obj\Debug\SearchCopyTool.Form1.resources
+C:\Users\dongchen\Documents\Visual Studio 2015\Projects\SearchCopyTool\SearchCopyTool\obj\Debug\SearchCopyTool.Properties.Resources.resources
+C:\Users\dongchen\Documents\Visual Studio 2015\Projects\SearchCopyTool\SearchCopyTool\obj\Debug\SearchCopyTool.csproj.GenerateResource.Cache
